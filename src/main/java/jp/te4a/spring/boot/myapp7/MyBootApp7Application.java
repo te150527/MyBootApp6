@@ -10,3 +10,4 @@ public class MyBootApp7Application {
 		SpringApplication.run(MyBootApp7Application.class, args);
 	}
 }
+/**/
